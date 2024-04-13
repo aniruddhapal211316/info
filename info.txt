@@ -1,0 +1,9 @@
+Host nitd_drdo
+    Hostname nitdgp.a.pinggy.online
+    Port 26689
+    User aniruddha
+
+
+ssh command : 
+
+ssh -p 26689 aniruddha@nitdgp.a.pinggy.online
