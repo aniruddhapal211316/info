@@ -7,3 +7,4 @@ Host nitd_drdo
 ssh command : 
 
 ssh -p 26689 aniruddha@nitdgp.a.pinggy.online
+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0
